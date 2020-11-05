@@ -1,0 +1,3 @@
+[submodule "cudl-data"]
+	path = cudl-data
+	url = git@bitbucket.org:CUDL/cudl-data.git
